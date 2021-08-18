@@ -1,0 +1,5 @@
+-   id: npm-groovy-lint
+    name: Run npm-groovy-lint
+    description: Runs npm-groovy-lint
+    entry: npm-groovy-lint
+    language: node
